@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Al Pals Fantasy Football 2025
+title: Fantasy Football 2025
 
 # Your name to show in the footer
 author: Al Pals
@@ -137,12 +137,12 @@ navbar-var-length: false
 
 page-col: "#F9E6F0"#"#2a3141"
 text-col: "#333333"#"#FFFFFF"
-link-col: "#A7E6E0"#"#04cdb7"
-hover-col: "#A7E6E0"#"#04cdb7"
-navbar-col: "#F7E7CE"#"#102031"
-navbar-text-col: "#A7E6E0"#"#04cdb7"
+link-col: "#E87722"#"#04cdb7"
+hover-col: "#E87722"#"#04cdb7"
+navbar-col: "#FF69B4"#"#102031"
+navbar-text-col: "#E87722"#"#04cdb7"
 navbar-border-col: "#FFD700"#"#04cdb7"
-footer-col: "#FFD700"#"#102031"
+footer-col: "#FF69B4"#"#102031"
 footer-text-col: "#A7E6E0"#"#677897"
 footer-link-col: "#A7E6E0"#"#404040"
 footer-hover-col: "#0085A1"
