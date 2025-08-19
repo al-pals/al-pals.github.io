@@ -21,6 +21,7 @@ author: Al Pals
 
 navbar-links:
   League Home Page: "https://sleeper.com/leagues/1257090487240642560"
+  Rules and Tips: "rules"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -140,7 +141,7 @@ text-col: "#333333"
 link-col: "#E87722"
 hover-col: "#FFD700"
 navbar-col: "#A7E6E0"
-navbar-text-col: "#E87722"
+navbar-text-col: "#FFFFFF"
 navbar-border-col: "#5EB298"
 footer-col: "#A7E6E0"
 footer-text-col: "#5EB298"
