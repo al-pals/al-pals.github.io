@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/al-pals.github.io/_posts/2025-07-25-welcome.md",
     "project_path": "_posts/2025-07-25-welcome.md",
     "type": "markdown",
-    "hash": "2588550863",
+    "hash": "927777261",
     "contents": "",
     "dirty": false,
     "created": 1755633697632.0,
@@ -12,15 +12,16 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "22,109",
-        "scrollLine": "0"
+        "cursorPosition": "33,91",
+        "scrollLine": "4",
+        "marks": "<:22,20\n>:22,20"
     },
     "folds": "",
-    "lastKnownWriteTime": 1755635240,
+    "lastKnownWriteTime": 1755636689,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1755635240856,
+    "last_content_update": 1755636689701,
     "read_only": false,
     "read_only_alternatives": []
 }
