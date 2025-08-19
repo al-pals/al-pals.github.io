@@ -19,7 +19,8 @@ author: Al Pals
 # --- List of links in the navigation bar --- #
 ###############################################
 
-#navbar-links:
+navbar-links:
+  League Home Page: "https://sleeper.com/leagues/1257090487240642560"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
