@@ -3,17 +3,17 @@
     "path": "~/Documents/GitHub/al-pals.github.io/_config.yml",
     "project_path": "_config.yml",
     "type": "yaml",
-    "hash": "1314608092",
+    "hash": "0",
     "contents": "",
-    "dirty": false,
+    "dirty": true,
     "created": 1755617121949.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "marks": "<:35,20\n>:35,21",
-        "cursorPosition": "142,25",
+        "marks": "<:137,12\n>:137,12",
+        "cursorPosition": "142,26",
         "scrollLine": "117"
     },
     "folds": "",
@@ -21,7 +21,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1755617579296,
+    "last_content_update": 1755617700461,
     "read_only": false,
     "read_only_alternatives": []
 }
