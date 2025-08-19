@@ -21,6 +21,7 @@ author: Al Pals
 
 navbar-links:
   League Home Page: "https://sleeper.com/leagues/1257090487240642560"
+  Rules and Tips: "rules"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -136,11 +137,11 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 page-col: "#F9E6F0"
-text-col: "#333333"
-link-col: "#E87722"
-hover-col: "#FFD700"
+text-col: "#075c2b"
+link-col: "#e46c32"
+hover-col: "#e46c32"
 navbar-col: "#A7E6E0"
-navbar-text-col: "#E87722"
+navbar-text-col: "#FFFFFF"
 navbar-border-col: "#5EB298"
 footer-col: "#A7E6E0"
 footer-text-col: "#5EB298"
