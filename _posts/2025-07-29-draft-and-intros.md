@@ -35,7 +35,7 @@ Incredible work everybody!! The draft was a massive success, and now the table i
 
 #### Team name: Easy, Breecey, Not OK
 
-**Fun fact about Chris:** Chris is an expert on all things pickled. Think of any food item possible. If you take that food - and you _pickle it_ - you can blindfold Chris, have him taste it, and he will be able to tell you what the original food item was! You might find this hidden talent to be a bit bizarre and not all that impressive, well...
+**Fun fact about Chris:** Chris is an expert on all things pickled &#129362;. Think of any food item possible. If you take that food - and you _pickle it_ - you can blindfold Chris, have him taste it, and he will be able to tell you what the original food item was! You might find this hidden talent to be a bit bizarre and not all that impressive, well...
 
 {: .box-error}
 **Woody's Draft Grade for Chris: F**
@@ -45,7 +45,7 @@ Incredible work everybody!! The draft was a massive success, and now the table i
 
 #### Team name: Shrek 5 coming 2026
 
-**Fun fact about Nic:** The only thing Nic loves more than kicking butt in fantasy football is adding to his growing collection of _long_ socks. This obsession with long socks is relatively new, so the collection is still growing, but Nic's love of these longos is undeniable. The longer the better. It's actually gotten to the point where he's a bit revolted by socks that don't at *least* come up to the knee - why even have legs at that point? What are the longest socks you own? Bet you his are longer.
+**Fun fact about Nic:** The only thing Nic loves more than kicking butt in fantasy football is adding to his growing collection of _long_ socks &#129510;. This obsession with long socks is relatively new, so the collection is still growing, but Nic's love of these longos is undeniable. The longer the better. It's actually gotten to the point where he's a bit revolted by socks that don't at *least* come up to the knee - why even have legs at that point? What are the longest socks you own? Bet you his are longer.
 
 {: .box-success}
 **Woody's Draft Grade for Nic: A+**
@@ -86,7 +86,7 @@ Incredible work everybody!! The draft was a massive success, and now the table i
 
 #### Team name: City Upon a Hill
 
-**Fun fact about Amy:** Amy has taken up horse riding in recent years, and done so to *remarkable* success. Now, while racing is not exactly her greatest strength on the horse, after years of taking her daughter, Alex, to tumbling lessons, she has learned how to perform incredibly acrobatic gymnastic moves while on horseback. This talent is so incredible that she fully expects to medal in [_dressage_](https://www.youtube.com/shorts/CniEbJXHDq8) at the 2028 Los Angeles Olympic Games where she will dazzle the judges by showing off her ability to do a backflip on a horse!! (Pictured below.)
+**Fun fact about Amy:** Amy has taken up horse riding in recent years, and done so to *remarkable* success &#128014; &#128014;. Now, while racing is not exactly her greatest strength on the horse, after years of taking her daughter, Alex, to tumbling lessons, she has learned how to perform incredibly acrobatic gymnastic moves while on horseback. This talent is so incredible that she fully expects to medal in [_dressage_](https://www.youtube.com/shorts/CniEbJXHDq8) at the 2028 Los Angeles Olympic Games where she will dazzle the judges by showing off her ability to do a backflip on a horse!! (Pictured below.)
 
 {: .box-success}
 **Woody's Draft Grade for Amy: A+**
@@ -107,7 +107,7 @@ Incredible work everybody!! The draft was a massive success, and now the table i
 
 #### Team name: d. diddy
 
-**Fun fact about Armon:** At his *stunning* wedding this past Spring, Armon and Samantha had the most impressive cake making ceremony you have ever seen. There was music, fanfare, and *FIREWORKS* while Armon and Samantha built the cake themselves!! Armon was such a fan of this experience that he decided to become a contestant on 'The Great British Bake Off'. Unfortunately, Armon very much misunderstood how critical _fireworks_ are to the typical process of making cakes, and was immediately disqualified from the competition when he started the first challenge by firing off roman candles at the other contestants.
+**Fun fact about Armon:** At his *stunning* wedding this past Spring, Armon and Samantha had the most impressive cake making ceremony you have ever seen. There was music, fanfare, and *FIREWORKS* while Armon and Samantha built the cake themselves!! &#127879; &#127874; Armon was such a fan of this experience that he decided to become a contestant on 'The Great British Bake Off'. Unfortunately, Armon very much misunderstood how critical _fireworks_ are to the typical process of making cakes, and was immediately disqualified from the competition when he started the first challenge by firing off roman candles at the other contestants.
 
 
 {: .box-success}
