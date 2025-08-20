@@ -27,6 +27,8 @@ Incredible work everybody!! The draft was a massive success, and now the table i
 
 **Fun fact about Albert:** After failing to complete my quest for a third consecutive fantasy football championship last year, I fell into a depression so deep that I needed to find a new pasttime that could lift me out of it. In the end, the only hobby that succeeded in lifting me out of this malaise was puppeteering. My newfound passion for puppets has been focused on the sock varietals so far, but I look forward to expanding into wood puppets should my fantasy football ineptitude continue this year.
 
+![Bert puppet](https://al-pals.github.io/assets/img/bert_puppet.jpeg){: .mx-auto.d-block :}
+
 {: .box-warning}
 **Woody's Draft Grade for Albert: B**
 
@@ -57,6 +59,8 @@ Incredible work everybody!! The draft was a massive success, and now the table i
 
 **Fun fact about Sam and James:** Sam and James are getting married this November!!! Congratulations!! They were so inspired by the Bezos wedding that rented out the entire city of Venice, but for a long time they were at a loss for how to follow up such a grandiose event. Then they found the solution: rent out a whole continent! But to ensure the wedding would not be too gauche, they went with the most modestly priced continent: Antarctica. The best part about this is that the penguins all already look like they're in tuxedos!
 
+![Samjames penguins](https://al-pals.github.io/assets/img/jimmy_choo_penguin.jpeg){: .mx-auto.d-block :}
+
 {: .box-success}
 **Woody's Draft Grade for Sam and James: A+**
 
@@ -66,6 +70,8 @@ Incredible work everybody!! The draft was a massive success, and now the table i
 #### Team name: ivonafilic
 
 **Fun fact about Ivona:** Ivona is the newest member of our fantasy football league!!! The warmest of welcomes, Ivona!! Also, Ivona is in the midst of planning her own wedding to Nick!! So incredible and congratulations are yet again in order!! You might be thinking that this is a lot for one person to take on, all at once. Being a rookie in our fantasy league _and_ planning a wedding all at the same time is no small feat. But fear not!! Ivona is a master multitasker, she once spent an entire year as a traveling one-woman ensemble performing across the midwest.
+
+![Ivona ensemble](https://al-pals.github.io/assets/img/ivona_band.jpeg){: .mx-auto.d-block :}
 
 {: .box-success}
 **Woody's Draft Grade for Ivona: A+**
@@ -88,6 +94,8 @@ Incredible work everybody!! The draft was a massive success, and now the table i
 
 **Fun fact about Amy:** Amy has taken up horse riding in recent years, and done so to *remarkable* success &#128014; &#128014;. Now, while racing is not exactly her greatest strength on the horse, after years of taking her daughter, Alex, to tumbling lessons, she has learned how to perform incredibly acrobatic gymnastic moves while on horseback. This talent is so incredible that she fully expects to medal in [_dressage_](https://www.youtube.com/shorts/CniEbJXHDq8) at the 2028 Los Angeles Olympic Games where she will dazzle the judges by showing off her ability to do a backflip on a horse!! (Pictured below.)
 
+![Amy horseflip](https://al-pals.github.io/assets/img/amy_horseflip.jpeg){: .mx-auto.d-block :}
+
 {: .box-success}
 **Woody's Draft Grade for Amy: A+**
 
@@ -109,6 +117,7 @@ Incredible work everybody!! The draft was a massive success, and now the table i
 
 **Fun fact about Armon:** At his *stunning* wedding this past Spring, Armon and Samantha had the most impressive cake making ceremony you have ever seen. There was music, fanfare, and *FIREWORKS* while Armon and Samantha built the cake themselves!! &#127879; &#127874; Armon was such a fan of this experience that he decided to become a contestant on 'The Great British Bake Off'. Unfortunately, Armon very much misunderstood how critical _fireworks_ are to the typical process of making cakes, and was immediately disqualified from the competition when he started the first challenge by firing off roman candles at the other contestants.
 
+![Armon cake](https://al-pals.github.io/assets/img/armon_cake.jpeg){: .mx-auto.d-block :}
 
 {: .box-success}
 **Woody's Draft Grade for Armon: A+**
