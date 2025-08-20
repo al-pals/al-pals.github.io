@@ -12,7 +12,7 @@ Incredible work everybody!! The draft was a massive success, and now the table i
 
 ## Caitlin (@ccdougher3)
 
-#### Team name: summer i turned SB LIX ::trophy::
+#### Team name: summer i turned SB LIX &#127942;
 
 **Fun fact about Caitlin:** Noted Eagles superfan, Caitlin is such a lover of _the birds_ that she has recently decided to make a sharp career pivot to find more birds to fall in love with, and become a professional birder. She cannot get enough of the majestic beauty of these winged creatures and is especially fond of their incredible talent of defecating from high altitudes and with pinpoint accuracy onto the heads of passers by!!
 
@@ -27,8 +27,8 @@ Incredible work everybody!! The draft was a massive success, and now the table i
 
 **Fun fact about Albert:** After failing to complete my quest for a third consecutive fantasy football championship last year, I fell into a depression so deep that I needed to find a new pasttime that could lift me out of it. In the end, the only hobby that succeeded in lifting me out of this malaise was puppeteering. My newfound passion for puppets has been focused on the sock varietals so far, but I look forward to expanding into wood puppets should my fantasy football ineptitude continue this year.
 
-{: .box-success}
-**Woody's Draft Grade for Albert: A+**
+{: .box-warning}
+**Woody's Draft Grade for Albert: B**
 
 
 ## Chris (@cranderbro)
@@ -37,8 +37,8 @@ Incredible work everybody!! The draft was a massive success, and now the table i
 
 **Fun fact about Chris:** Chris is an expert on all things pickled. Think of any food item possible. If you take that food - and you _pickle it_ - you can blindfold Chris, have him taste it, and he will be able to tell you what the original food item was! You might find this hidden talent to be a bit bizarre and not all that impressive, well...
 
-{: .box-success}
-**Woody's Draft Grade for Chris: A+**
+{: .box-error}
+**Woody's Draft Grade for Chris: F**
 
 
 ## Nic (@nicengels)
