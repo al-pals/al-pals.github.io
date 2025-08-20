@@ -6,7 +6,7 @@ author: Commissioner Bert and Vice Commissioner Woody
 ---
 
 
-Incredible work everybody!! The draft was a massive success, and now the table is set for the grandest of competitions. To give you an idea of who you will be competing against this year, I will give you a fun **VERY TRUE** fact about each of the managers in our league this year, and Woody will help give you an idea on what the teams look like by providing us a draft grade for every team.
+Incredible work everybody!! The draft was a massive success, and now the table is set for competition in the world's greatest fantasy football league to commence. To give you an idea of who you will be competing against this year, I will give you a fun **VERY TRUE** fact about each of the managers in our league this year, and our beloved Vice Commissioner, Woody, will help give you an idea on what the teams look like this year by providing us a draft grade for every team.
 
 
 
