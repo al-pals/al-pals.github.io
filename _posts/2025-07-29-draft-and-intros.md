@@ -17,7 +17,8 @@ Incredible work everybody!! The draft was a massive success, and now the table i
 **Fun fact about Caitlin:** Noted Eagles superfan, Caitlin is such a lover of _the birds_ that she has recently decided to make a sharp career pivot to find more birds to fall in love with, and become a professional birder. She cannot get enough of the majestic beauty of these winged creatures and is especially fond of their incredible talent of defecating from high altitudes and with pinpoint accuracy onto the heads of passers by!!
 
 {: .box-success}
-**Woody's Draft Grade for Caitlin: A+**
+**Woody's Draft Grade for Caitlin: A+**   
+Caitlin, Gils mom, did an amazing job.
 
 
 
