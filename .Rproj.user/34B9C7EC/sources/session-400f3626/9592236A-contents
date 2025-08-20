@@ -75,7 +75,7 @@ Incredible work everybody!! The draft was a massive success, and now the table i
 
 #### Team name: Russell Wilson's Exes
 
-**Fun fact about Sophie and Dan:** SOPHIE AND DAN ARE ENGAGED TOO!!!! SO MUCH LOVE IN THIS FANTASY FOOTBALL LEAGUE, I need to catch my breath. Sophie and Dan are returning to our league after living in Durham, England this past year! They were actually intending to move to North Carolina but after paying the security deposit on an apartment in the wrong Durham, they decided they would just bite the bullet.
+**Fun fact about Sophie and Dan:** SOPHIE AND DAN ARE ENGAGED TOO!!!! SO MUCH LOVE IN THIS FANTASY FOOTBALL LEAGUE, I need to catch my breath. Sophie and Dan are returning to our league after living in Durham, England &#127988; this past year! They were actually intending to move to North Carolina but after paying the security deposit on an apartment in the wrong Durham, they decided they would just bite the bullet.
 
 
 {: .box-success}
