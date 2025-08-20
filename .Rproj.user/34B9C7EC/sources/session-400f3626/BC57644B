@@ -12,8 +12,9 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "12,0",
-        "scrollLine": "9"
+        "cursorPosition": "73,0",
+        "scrollLine": "62",
+        "marks": "<:12,0\n>:12,15"
     },
     "folds": "",
     "lastKnownWriteTime": 1755616845,
