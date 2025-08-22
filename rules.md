@@ -31,6 +31,11 @@ title: Rules and Tips
 - **Defensive scoring is a bit unique in our league, as it is nerfed to prevent large scores that can have a crazy impact on a matchup**
     - All defensive scoring starts at 5 points on the week, and -0.1 point is subtracted from this value for every real-life point that the defense allows (so your defense would need to give up over 50 points to give you a negative score)
     - Defense gets an additional point for every turnover that they force and a half-point for every sack
+- 0.04 points per kick/punt return yard **implemented starting in 2024 with the changing of the kick-off in the NFL that led to more fantasy relevant players being involved in kickoff returns**
+- 6 points per special teams touchdown or fumble recovery touchdown (if your player scores a touchdown of any variety, you will get a point) 
+
+{: .box-note}
+Note: Plays where a lateral occurs are scored weirdly by the NFL, this is the only situation where your player can score a touchdown and you technically might not get points for it in fantasy football... there is unfortunately no real way to rectify this due to the NFL's method of keeping stats on these plays
 
 
 
@@ -68,7 +73,37 @@ You can find all of your queued players underneath the "QUEUE" tab.
 
 
 
-#### Setting Your Starting Line Up
+#### TIME TO COMPETE
+
+The draft is merely the start of the glorious journey that is the fantasy football season. After you have acquired your team to start the season through the draft, you will 
+have to select which players will represent your team on any given week to earn you points in your matchup, and you will also have the opportunity to swap the players you 
+drafted for new players via the waiver wire and trades with other teams in the league!
+
+Set your lineup each weak by using the position icons next to the player names to swap out players from your bench into your starting lineup. Only points scored by these starting 
+players will count towards your score in a given week.
+
+![Sub example](https://al-pals.github.io/assets/img/sub_example.jpeg){: .mx-auto.d-block :}
+
+If one of your players gets injured and gets listed as "OUT" or put on the "PUP" or "IR", then you can move them to one of the IR slots that you see at the end of your bench. This will 
+allow you to pick up a new player without needing to remove the now-injured player from your roster!
+
+The main way of acquiring new players is by bidding on the remaining available players on the waiver wire. You will bid on these players using your free agent acquisition budget (FAAB) dollars. 
+Everyone in the league starts the season with \$100 in FAAB, so use it wisely! You can trade for more FAAB by asking for it in a trade with another team, but otherwise, once you use all of 
+your \$100, you will be left with hoping you can get players from the waiver wire with \$0 bids.
+
+To request a trade, you can click on the trade icon next to a player's name under the PLAYERS tab, or on any of the TEAM pages. Once a trade request is made the trade can be accepted, rejected, 
+or countered with an alternative trade. Our official policy with trades is _technically_ to have a 24 hour grace period after the trade request has been accepted. But in practice we simply wait 
+for commissioner review and as soon as I (Commissioner Bert) see the trade and it doesn't look like there's any collusion afoot, I'll process the trade. Note: While I theoretically have veto 
+power for any trade, it is very much against my fantasy football philosophy to veto any trade. I will process all trades unless it is exceedingly obvious - and there is unanimous agreement from the rest of the league - 
+that a trade has been made with nefarious motivations.
+
+
+#### Good luck!!! And always feel free to reach out to me if you have any questions!!
+
+Now let's go have some fun!!!
+
+![Woody lets go have fun](https://al-pals.github.io/assets/img/woody_lets_go_have_fun.png){: .mx-auto.d-block :}
+
 
 
 
