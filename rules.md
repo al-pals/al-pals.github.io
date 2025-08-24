@@ -23,6 +23,7 @@ title: Rules and Tips
 - 4 points per passing touchdown
 - -1 point per interception
 - 6 points per rushing or receiving a touchdown
+- 0.5 points per reception
 - -2 points per fumble *lost* (no points subtracted if the fumble is not recovered by the defense)
 - 6 points if your player recovers a fumble and scores a touchdown
 - 2 points for passing, rushing, or receiving a 2-point conversion
@@ -43,7 +44,7 @@ Note: Plays where a lateral occurs are scored weirdly by the NFL, this is the on
 
 ## Congratulations!!! You are part of the worlds greatest fantasy football league... now what? {#newbie-help}
 
-#### Drafting
+### Drafting
 
 The first step in your journey as a fantasy football manager will be our draft. At our draft, 
 you will get the opportunity to pick out a team from players in the NFL, and your position in the draft will be determined beforehand by the current Vice Commissioner. 
@@ -73,7 +74,7 @@ You can find all of your queued players underneath the "QUEUE" tab.
 
 
 
-#### TIME TO COMPETE
+### TIME TO COMPETE
 
 The draft is merely the start of the glorious journey that is the fantasy football season. After you have acquired your team to start the season through the draft, you will 
 have to select which players will represent your team on any given week to earn you points in your matchup, and you will also have the opportunity to swap the players you 
@@ -98,7 +99,7 @@ power for any trade, it is very much against my fantasy football philosophy to v
 that a trade has been made with nefarious motivations.
 
 
-#### Good luck!!! And always feel free to reach out to me if you have any questions!!
+### Good luck!!! And always feel free to reach out to me if you have any questions!!
 
 Now let's go have some fun!!!
 
