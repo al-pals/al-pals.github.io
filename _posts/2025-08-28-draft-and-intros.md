@@ -159,6 +159,5 @@ Woody _loves_ to play in the sun and loves to play with his neighbor friends. Ap
 
 {: .box-success}
 **Woody's Draft Grade for Alex: A+**   
-Mom drafted Woody's new favorite player, Colston LOVEland!! &#127798; &#129397;  
-<iframe width="420" height="315" src="https://www.youtube.com/shorts/w045t8ylgUM" frameborder="0" allowfullscreen></iframe>
+Mom drafted Woody's new favorite player, Colston LOVEland!! If you need further explanation... just [watch this](https://www.youtube.com/shorts/w045t8ylgUM) &#127798; &#129397;  
 
