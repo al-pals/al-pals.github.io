@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fun Facts and Draft Recap
+title: Fun Facts and Draft Grades
 comments: true
 author: Commissioner Bert and Vice Commissioner Woody
 ---
@@ -18,7 +18,7 @@ Incredible work everybody!! The draft was a massive success, and now the table i
 
 {: .box-success}
 **Woody's Draft Grade for Caitlin: A+**   
-Caitlin, Gils mom, did an amazing job.
+Caitlin, Gils mom, did an amazing job. Woody loves Gil, Gil loves the birds, Woody loves the birds. Go birds. Also, as if that was not enough... [WE DRAFTED XAVIER WORTHY!!!](https://www.youtube.com/shorts/OQHisWYMzGs)
 
 
 
@@ -31,27 +31,35 @@ Caitlin, Gils mom, did an amazing job.
 ![Bert puppet](https://al-pals.github.io/assets/img/bert_puppet.jpeg){: .mx-auto.d-block :}
 
 {: .box-warning}
-**Woody's Draft Grade for Albert: B**
-
+**Woody's Draft Grade for Albert: C**
+VERY CONFLICTING!! Travis _Hunter_ and Ja'marr _Chase_? Woody thinks Hunters are scary, but loves to play Chase...
 
 ## Chris (@cranderbro)
 
-#### Team name: Easy, Breecey, Not OK
+#### Team name: Just joshin'
 
-**Fun fact about Chris:** Chris is an expert on all things pickled &#129362;. Think of any food item possible. If you take that food - and you _pickle it_ - you can blindfold Chris, have him taste it, and he will be able to tell you what the original food item was! You might find this hidden talent to be a bit bizarre and not all that impressive, well...
+**Fun fact about Chris:** Chris drafted via surrogate!! His close friend Matt stood in for him and took his young roster to term through the draft while Chris was focused on furthering his career. Intriguingly, this is not Chris' first experience with surrogacy, he's been a professional surrogate himself for a number of wealthy celebrity couples -- who must remain anonymous at this juncture due to various NDAs.
 
-{: .box-error}
-**Woody's Draft Grade for Chris: F**
+![CA surrogate](https://al-pals.github.io/assets/img/ca_surrogacy.jpeg){: .mx-auto.d-block :}
+
+{: .box-success}
+**Woody's Draft Grade for Chris: A+**
+CA got Jordan _LOVE_, Matthew _GOLDEN_, and _Fancy Ladd_ McConkey all on the same team?? As a golden fancy lad who loves love, Woody APPROVES!!
 
 
 ## Nic (@nicengels)
 
-#### Team name: Shrek 5 coming 2026
+#### Team name: BILL CROSKEY
 
-**Fun fact about Nic:** The only thing Nic loves more than kicking butt in fantasy football is adding to his growing collection of _long_ socks &#129510;. This obsession with long socks is relatively new, so the collection is still growing, but Nic's love of these longos is undeniable. The longer the better. It's actually gotten to the point where he's a bit revolted by socks that don't at *least* come up to the knee - why even have legs at that point? What are the longest socks you own? Bet you his are longer.
+**Fun fact about Nic:** The only thing Nic loves more than kicking butt in fantasy football is adding to his growing collection of socks &#129510;. Specifically _long_ socks. This obsession with long socks is relatively new, so the collection is still growing, but Nic's love of these longos is undeniable. The longer the better. It's actually gotten to the point where he's a bit revolted by socks that don't at *least* come up to the knee - why even have legs at that point? What are the longest socks you own? Bet you his are longer.
+
+![Nic socks](https://al-pals.github.io/assets/img/nic_socks.jpeg){: .mx-auto.d-block :}
 
 {: .box-success}
-**Woody's Draft Grade for Nic: A+**
+**Woody's Draft Grade for Nic: A**  
+AJ Brown?!? AJ BROWN!! Also, Jahmyr Gibbs is a FAST BOI like Woody!!!
+
+
 
 
 ## Sam and James (@normalestman)
@@ -62,8 +70,10 @@ Caitlin, Gils mom, did an amazing job.
 
 ![Samjames penguins](https://al-pals.github.io/assets/img/jimmy_choo_penguin.jpeg){: .mx-auto.d-block :}
 
-{: .box-success}
-**Woody's Draft Grade for Sam and James: A+**
+{: .box-warning}
+**Woody's Draft Grade for Sam and James: B**  
+To start, very good job drafting Kermit the quarterback Mahomes -- he's going to be playing extra hard to be sure he's a groomsman at the Swift wedding. But then Woody is very worried about pronouncing all of those Nj names... Smith-Njigba and Njoku? Is it Njimmy Choo now? Does Woody have to change his name to Njoody? Is this a New Jersey thing?? Confoozed.
+
 
 
 ## Ivona (@ivonafilic)
@@ -75,7 +85,8 @@ Caitlin, Gils mom, did an amazing job.
 ![Ivona ensemble](https://al-pals.github.io/assets/img/ivona_band.jpeg){: .mx-auto.d-block :}
 
 {: .box-success}
-**Woody's Draft Grade for Ivona: A+**
+**Woody's Draft Grade for Ivona: A+**  
+TRAVYY MADE IT TO THE BIG GAME!!! CONGRATULATIONS ON DRAFTING MR. TAYLOR SWIFT AKA MR. AMERICANA AKA THE HUMAN EXCLAMATION POINT AKA MR. MOTHER ... or father? okay maybe nvm on that last one.
 
 
 ## Sophie and Dan (@centis)
@@ -86,12 +97,13 @@ Caitlin, Gils mom, did an amazing job.
 
 
 {: .box-success}
-**Woody's Draft Grade for Sophie and Dan: A+**
+**Woody's Draft Grade for Sophie and Dan: A+**  
+Woody is BIG FAN OF GEORGE KITTLE!! First, he's named after food: AMAZING. Second, he loves his sniffs so much that he threatened to quit football if he couldn't sniff his salts... Woody also LOVES SNIFFS!! Third, George seems like goofy goober, Woody is big fan of goofy goobers.
 
 
 ## Amy (@acv1)
 
-#### Team name: City Upon a Hill
+#### Team name: happy little bluebirds
 
 **Fun fact about Amy:** Amy has taken up horse riding in recent years, and done so to *remarkable* success &#128014; &#128014;. Now, while racing is not exactly her greatest strength on the horse, after years of taking her daughter, Alex, to tumbling lessons, she has learned how to perform incredibly acrobatic gymnastic moves while on horseback. This talent is so incredible that she fully expects to medal in [_dressage_](https://www.youtube.com/shorts/CniEbJXHDq8) at the 2028 Los Angeles Olympic Games where she will dazzle the judges by showing off her ability to do a backflip on a horse!! (Pictured below.)
 
@@ -120,27 +132,33 @@ Caitlin, Gils mom, did an amazing job.
 
 ![Armon cake](https://al-pals.github.io/assets/img/armon_cake.jpeg){: .mx-auto.d-block :}
 
-{: .box-success}
-**Woody's Draft Grade for Armon: A+**
+{: .box-error}
+**Woody's Draft Grade for Armon: D**  
+Brock Bowers might have a very bad year. Every time Woody has to have hair removed, it's because he has to go to vet. Vet is HORRIBLE AND SCARY PLACE WHERE THEY TORTURE YOU. And based off of his hair, it looks like Brock spent ALL SUMMER AT THE VET!!! HOW IS HE SUPPOSED TO PLAY FOOTBALL NOW?!?
 
 
 ## Drew (@dhanford)
 
-#### Team name: Deap Tissue
+#### Team name: Deep Tissue
 
 **Fun fact about Drew:** Drew is one of the best fantasy football managers in this entire league - nobody has scored more points over the total time of this league existing. And yet, Drew has still not yet succeeded in winning the championship! This is probably because he has been engulfed in a multi-year legal battle trying to protect his identity from being stolen completely. For years, we had two Drew Hanfords in this league, and identifying the authentic Drew from the imposter became and increasingly unweildy task. It got so bad that at one point - reportedly - Drew's own family began to question which was the real Drew. Well, after years of this torment, Drew is finally free!! The imposter revealed himself to be _Armon_ this whole time.
 
+![The drews](https://al-pals.github.io/assets/img/the_drews.jpg){: .mx-auto.d-block :}
+
 {: .box-success}
-**Woody's Draft Grade for Drew: A+**
+**Woody's Draft Grade for Drew: A+**  
+Woody _loves_ to play in the sun and loves to play with his neighbor friends. Apparently Amon Ra Saint Brown is named after the sun **and** Drew also drafted Nabers?? Great job!!
 
 
 ## Alex (@avenuto3)
 
-#### Team name: Fantasy football showgirl
+#### Team name: Paper rings where???
 
 
 **Fun fact about Alex:** As many of you know, Alex is a bit of a Taylor Swift fan. As you also may know, Taylor Swift is now in a long-term relationship with Kansas City Chief's Tight End, Travis Kelce. What you might not know is that Travis Kelce's sister-in-law, Kylie Kelce, is an impressive athlete herself and currently coaches girls field hockey. Well, being a former collegiate hockey player herself, Alex now plans to become a field hockey coach herself as part of a scheme that could eventually connect her to Kylie, then to Travis, and ultimately to Taylor. Now, you might be thinking "wait, I thought Alex played _ice_ hockey not field hockey?"... well I'm sure they can't be _that_ different. You probably just have to tie your skates a little tighter so that they stay on in the grass.
 
 {: .box-success}
-**Woody's Draft Grade for Alex: A+** OHHH NOOO!!!! MOM GOT THE LAST PICK?!? ALL BECAUSE OF MEE!?!?! Woody feels so bad. Thank goodness Alex is so smart - I call her "Doctor Mom" because she graduated just like Woody did, but even better. But since she is so smart, I know she drafted a super awesome amazing team even though she had the last pick.
+**Woody's Draft Grade for Alex: A+**   
+Mom drafted Woody's new favorite player, Colston LOVEland!! &#127798; &#129431;  
+<iframe width="420" height="315" src="https://www.youtube.com/shorts/w045t8ylgUM" frameborder="0" allowfullscreen></iframe>
 

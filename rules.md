@@ -103,9 +103,12 @@ that a trade has been made with nefarious motivations.
 
 Now let's go have some fun!!!
 
-![Glinda popup](https://al-pals.github.io/assets/img/toss_toss.gif){: .mx-auto.d-block :}
+
 
 ![Woody lets go have fun](https://al-pals.github.io/assets/img/woody_lets_go_have_fun.png){: .mx-auto.d-block :}
+
+
+<iframe width="420" height="315" src="https://www.youtube.com/shorts/w045t8ylgUM" frameborder="0" allowfullscreen></iframe>
 
 
 
