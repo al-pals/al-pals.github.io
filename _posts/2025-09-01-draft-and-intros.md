@@ -16,6 +16,8 @@ Incredible work everybody!! The draft was a massive success, and now the table i
 
 **Fun fact about Caitlin:** Noted Eagles superfan, Caitlin is such a lover of _the birds_ that she has recently decided to make a sharp career pivot to find more birds to fall in love with, and become a professional birder. She cannot get enough of the majestic beauty of these winged creatures and is especially fond of their incredible talent of defecating from high altitudes and with pinpoint accuracy onto the heads of passers by!!
 
+![Caitlin birder](https://al-pals.github.io/assets/img/caitlin_birder.jpeg){: .mx-auto.d-block :}
+
 {: .box-success}
 **Woody's Draft Grade for Caitlin: A+**   
 Caitlin, Gils mom, did an amazing job. Woody loves Gil, Gil loves the birds, Woody loves the birds. Go birds. Also, as if that was not enough... [WE DRAFTED XAVIER WORTHY!!!](https://www.youtube.com/shorts/OQHisWYMzGs)
@@ -95,6 +97,7 @@ TRAVYY MADE IT TO THE BIG GAME!!! CONGRATULATIONS ON DRAFTING MR. TAYLOR SWIFT A
 
 **Fun fact about Sophie and Dan:** SOPHIE AND DAN ARE ENGAGED TOO!!!! SO MUCH LOVE IN THIS FANTASY FOOTBALL LEAGUE, I need to catch my breath. Sophie and Dan are returning to our league after living in Durham, England &#127988; this past year! They were actually intending to move to North Carolina but after paying the security deposit on an apartment in the wrong Durham, they decided they would just bite the bullet.
 
+![Dophie bulls](https://al-pals.github.io/assets/img/dophie_bulls.jpeg){: .mx-auto.d-block :}
 
 {: .box-success}
 **Woody's Draft Grade for Sophie and Dan: A+**  
@@ -121,6 +124,10 @@ Great job getting runningbacks!! Woody loves runningbacks. But Woody is very sad
 
 **Fun fact about Nick:** As many of you may have been able to notice from the draft zoom, Nick has spent the summer preparing for the fantasy football season from the international space station. This has allowed him to perform experiments and gain new knowledge about fantasy players he was considering for his roster. This was especially useful for the arrival of Jacory Croskey-Merritt aka BILL CROSKEY, who -- legend has it -- defies all limitations of Earth-bound physics. Is it true that Bill Croskey can achieve escape velocity while backpedalling? Or is it true that Bill Croskey has a stiff arm so vicious you can hear it in the vacuum of space? Only Nick has the answers to these questions.
 
+
+![Nick iss](https://al-pals.github.io/assets/img/nick_iss.jpeg){: .mx-auto.d-block :}
+
+
 {: .box-warning}
 **Woody's Draft Grade for Nick: B+**  
 You got the Jets defense!! Jets are _super_ fast... but they still are not as fast as Woody boi, so sorry.
@@ -137,7 +144,7 @@ You got the Jets defense!! Jets are _super_ fast... but they still are not as fa
 
 {: .box-error}
 **Woody's Draft Grade for Armon: D**  
-Brock Bowers might have a very bad year. Every time Woody has to have hair removed, it's because he has to go to vet. Vet is HORRIBLE AND SCARY PLACE WHERE THEY TORTURE YOU. And based off of his hair, it looks like Brock spent ALL SUMMER AT THE VET!!! HOW IS HE SUPPOSED TO PLAY FOOTBALL NOW?!?
+Brock Bowers might have a very bad year. Every time Woody has to have hair removed, it's because he has to get shaved in preparation to undergo a procedure at the vet. Vet is HORRIBLE AND SCARY PLACE WHERE THEY TORTURE YOU. And based off of his hair, it looks like Brock spent ALL SUMMER AT THE VET!!! HOW IS HE SUPPOSED TO PLAY FOOTBALL NOW?!?
 
 
 ## Drew (@dhanford)
@@ -159,6 +166,9 @@ Woody _loves_ to play in the sun and loves to go out and play with the neighbors
 
 
 **Fun fact about Alex:** As many of you know, Alex is a bit of a Taylor Swift fan. As you also may know, Taylor Swift is now in a long-term relationship with Kansas City Chief's Tight End, Travis Kelce. What you might not know is that Travis Kelce's sister-in-law, Kylie Kelce, is an impressive athlete herself and currently coaches girls field hockey. Well, being a former collegiate hockey player herself, Alex now plans to become a field hockey coach herself as part of a scheme that could eventually connect her to Kylie, then to Travis, and ultimately to Taylor. Now, you might be thinking "wait, I thought Alex played _ice_ hockey not field hockey?"... well I'm sure they can't be _that_ different. You probably just have to tie your skates a little tighter so that they stay on in the grass.
+
+
+![Alex icefield](https://al-pals.github.io/assets/img/alex_icefield.jpeg){: .mx-auto.d-block :}
 
 {: .box-success}
 **Woody's Draft Grade for Alex: A+**   
