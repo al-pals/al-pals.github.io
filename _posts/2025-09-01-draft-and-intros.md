@@ -24,7 +24,7 @@ Caitlin, Gils mom, did an amazing job. Woody loves Gil, Gil loves the birds, Woo
 
 ## Albert (@berttucci)
 
-#### Team name: bert and the showgirls
+#### Team name: London Boys' Revenge
 
 **Fun fact about Albert:** After failing to complete my quest for a third consecutive fantasy football championship last year, I fell into a depression so deep that I needed to find a new pasttime that could lift me out of it. In the end, the only hobby that succeeded in lifting me out of this malaise was puppeteering. My newfound passion for puppets has been focused on the sock varietals so far, but I look forward to expanding into wood puppets should my fantasy football ineptitude continue this year.
 
@@ -109,18 +109,21 @@ Woody is BIG FAN OF GEORGE KITTLE!! First, he's named after food: AMAZING. Secon
 
 ![Amy horseflip](https://al-pals.github.io/assets/img/amy_horseflip.jpeg){: .mx-auto.d-block :}
 
-{: .box-success}
-**Woody's Draft Grade for Amy: A+**
+{: .box-warning}
+**Woody's Draft Grade for Amy: C**  
+Great job getting runningbacks!! Woody loves runningbacks. But Woody is very sad that you have replaced Jordan Love as your quarterback with Brock Purdy this year. Woody really appreciates being Purdy -- he is the handsomest bansome, afterall -- but love is way more important than being purdy.
+
 
 
 ## Nick (@nickfenger)
 
 #### Team name: Atticus the Platypus
 
-**Fun fact about Nick:**
+**Fun fact about Nick:** As many of you may have been able to notice from the draft zoom, Nick has spent the summer preparing for the fantasy football season from the international space station. This has allowed him to perform experiments and gain new knowledge about fantasy players he was considering for his roster. This was especially useful for the arrival of Jacory Croskey-Merritt aka BILL CROSKEY, who -- legend has it -- defies all limitations of Earth-bound physics. Is it true that Bill Croskey can achieve escape velocity while backpedalling? Or is it true that Bill Croskey has a stiff arm so vicious you can hear it in the vacuum of space? Only Nick has the answers to these questions.
 
-{: .box-success}
-**Woody's Draft Grade for Nick: A+**
+{: .box-warning}
+**Woody's Draft Grade for Nick: B+**  
+You got the Jets defense!! Jets are _super_ fast... but they still are not as fast as Woody boi, so sorry.
 
 
 
@@ -147,12 +150,12 @@ Brock Bowers might have a very bad year. Every time Woody has to have hair remov
 
 {: .box-success}
 **Woody's Draft Grade for Drew: A+**  
-Woody _loves_ to play in the sun and loves to play with his neighbor friends. Apparently Amon Ra Saint Brown is named after the sun **and** Drew also drafted Nabers?? Great job!!
+Woody _loves_ to play in the sun and loves to go out and play with the neighbors. Apparently Amon Ra Saint Brown is named after the sun **and** Drew also drafted Nabers?? Great job!!
 
 
 ## Alex (@avenuto3)
 
-#### Team name: Paper rings where???
+#### Team name: Cookin' with Baker
 
 
 **Fun fact about Alex:** As many of you know, Alex is a bit of a Taylor Swift fan. As you also may know, Taylor Swift is now in a long-term relationship with Kansas City Chief's Tight End, Travis Kelce. What you might not know is that Travis Kelce's sister-in-law, Kylie Kelce, is an impressive athlete herself and currently coaches girls field hockey. Well, being a former collegiate hockey player herself, Alex now plans to become a field hockey coach herself as part of a scheme that could eventually connect her to Kylie, then to Travis, and ultimately to Taylor. Now, you might be thinking "wait, I thought Alex played _ice_ hockey not field hockey?"... well I'm sure they can't be _that_ different. You probably just have to tie your skates a little tighter so that they stay on in the grass.
