@@ -95,7 +95,7 @@ TRAVYY MADE IT TO THE BIG GAME!!! CONGRATULATIONS ON DRAFTING MR. TAYLOR SWIFT A
 
 #### Team name: Russell Wilson's Exes
 
-**Fun fact about Sophie and Dan:** SOPHIE AND DAN ARE ENGAGED TOO!!!! SO MUCH LOVE IN THIS FANTASY FOOTBALL LEAGUE, I need to catch my breath. Sophie and Dan are returning to our league after living in Durham, England &#127988; this past year! They were actually intending to move to North Carolina but after paying the security deposit on an apartment in the wrong Durham, they decided they would just bite the bullet.
+**Fun fact about Sophie and Dan:** SOPHIE AND DAN ARE ENGAGED TOO!!!! SO MUCH LOVE IN THIS FANTASY FOOTBALL LEAGUE, I need to catch my breath. Sophie and Dan are returning to our league after living in Durham, England this past year! They were actually intending to move to North Carolina but after paying the security deposit on an apartment in the wrong Durham, they decided they would just bite the bullet.
 
 ![Dophie bulls](https://al-pals.github.io/assets/img/dophie_bulls.jpeg){: .mx-auto.d-block :}
 
